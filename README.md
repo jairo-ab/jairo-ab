@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="height">
+  <a href="https://github.com/jairo-ab">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairo-ab&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairo-ab&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>

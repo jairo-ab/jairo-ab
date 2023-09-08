@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá dev 👋
 
 <!--
 **jairo-ab/jairo-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Atualmente estou trabalhando com PHP e JS
-- 🌱 Estou aprendendo Frameworks Laravel e VueJs.
+- 🌱 Atuo como front-end VueJS
 - 👯 Procuro colaborar com a comunidade Open Source
 - 💬 Me pergunte sobre Desenvolvimento Web e Linux
-- 📫 Como chegar até mim: jairo.abreu@dev.samelht.com.br
+- 📫 Como chegar até mim: jairoabreeu@gmail.com
 
 <div align="height">
   <a href="https://github.com/jairo-ab">
